@@ -5,6 +5,7 @@
 - 📫 How to reach me:
 
 twitter: [@aitchkhanT](https://twitter.com/aitchkhanT)
+linkedIn: [@aitchkhan](https://www.linkedin.com/in/aitchkhan/)
 
 
 <!--
